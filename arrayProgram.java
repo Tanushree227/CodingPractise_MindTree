@@ -16,4 +16,15 @@ public class arrayProgram {
         }
         return reversed;
     }
+
+    public static int findFirstDuplicate(int[] arr) {
+        boolean[] seen = new boolean[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            if (seen[arr[i]]) {
+                return arr[i];
+            }
+            seen[arr[i]] = true;
+        }
+        return -1; // No duplicates found
+    }
 }
