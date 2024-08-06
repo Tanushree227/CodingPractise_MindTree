@@ -1,3 +1,7 @@
 Tell me about yourself.
 Answer:
 "I'm a final-year MCA student with a strong foundation in computer science and a passion for technology. I recently completed a comprehensive WEB3 internship program at Technook, where I gained hands-on experience in blockchain technologies and showcased strong troubleshooting skills. I have experience working on various projects, including developing a Python application for 3D spine modeling and creating a React frontend for image analysis. I'm excited about the opportunity at Mindtree because I admire the company's commitment to innovation and growth, and I believe my skills and enthusiasm would be a great fit for the team."
+
+Why do you want to work at Mindtree?
+Answer:
+"I want to work at Mindtree because of its reputation for fostering innovation and its strong emphasis on employee growth and development. I am particularly impressed by Mindtree's collaborative culture and its focus on leveraging emerging technologies to solve complex problems. I believe that working at Mindtree will provide me with the opportunity to further develop my skills and contribute to impactful projects, aligning perfectly with my career goals."
