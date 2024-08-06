@@ -9,3 +9,7 @@ Answer:
 3. What are your strengths and weaknesses?
 Answer:
 "My strengths include strong analytical skills, attention to detail, and the ability to quickly adapt to new technologies. I am also a proactive learner and enjoy taking on new challenges, as evidenced by my recent internship and various projects. One area I am working on improving is my public speaking skills. While I am comfortable in one-on-one and small group settings, I am actively seeking opportunities to enhance my confidence and effectiveness when speaking to larger audiences."
+
+4. Describe a challenging situation you faced during a project and how you handled it.
+Answer:
+"During my work on a Python application that interfaced with Blender for 3D modeling, I encountered issues with subprocess calls and JSON data handling. To resolve this, I broke down the problem into smaller parts, researched potential solutions, and sought advice from peers and online communities. By systematically addressing each issue and testing solutions iteratively, I was able to overcome the challenges and successfully complete the project. This experience taught me the importance of persistence and leveraging available resources."
