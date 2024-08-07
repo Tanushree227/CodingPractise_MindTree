@@ -25,3 +25,7 @@ Answer:
 7. How do you stay updated with the latest technology trends?
 Answer:
 "I stay updated with the latest technology trends by regularly reading tech blogs, articles, and industry reports. I follow thought leaders and technology influencers on social media platforms like LinkedIn and Twitter. Additionally, I participate in online courses and webinars to continuously learn about new technologies and best practices. I also engage with tech communities and forums to discuss and share knowledge with peers."
+
+8. Why should we hire you?
+Answer:
+"You should hire me because I bring a unique combination of technical expertise, a proactive approach to problem-solving, and a strong desire to contribute to innovative projects. My background in computer science, hands-on experience with emerging technologies, and successful project executions demonstrate my capability to excel in a dynamic environment. I am eager to bring my skills and enthusiasm to Mindtree, where I can grow professionally and help drive the company's success."
