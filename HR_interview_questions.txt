@@ -13,3 +13,7 @@ Answer:
 4. Describe a challenging situation you faced during a project and how you handled it.
 Answer:
 "During my work on a Python application that interfaced with Blender for 3D modeling, I encountered issues with subprocess calls and JSON data handling. To resolve this, I broke down the problem into smaller parts, researched potential solutions, and sought advice from peers and online communities. By systematically addressing each issue and testing solutions iteratively, I was able to overcome the challenges and successfully complete the project. This experience taught me the importance of persistence and leveraging available resources."
+
+5. How do you handle working under pressure?
+Answer:
+"I handle pressure by staying organized and maintaining a positive mindset. I prioritize tasks based on their urgency and importance, breaking down larger tasks into manageable steps. During high-pressure situations, I also make sure to take short breaks to clear my mind and avoid burnout. My experience with tight deadlines during my internship and academic projects has helped me develop effective time management and stress management skills, allowing me to remain focused and productive."
