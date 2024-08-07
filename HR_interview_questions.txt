@@ -21,3 +21,7 @@ Answer:
 6. Where do you see yourself in five years?
 Answer:
 "In five years, I see myself in a leadership role within the technology domain, possibly as a project manager or a senior software engineer. I aim to have gained significant experience working on innovative projects and contributing to the success of my team and organization. I am also keen on continuous learning and professional development, and I hope to have completed relevant certifications and advanced my technical and managerial skills."
+
+7. How do you stay updated with the latest technology trends?
+Answer:
+"I stay updated with the latest technology trends by regularly reading tech blogs, articles, and industry reports. I follow thought leaders and technology influencers on social media platforms like LinkedIn and Twitter. Additionally, I participate in online courses and webinars to continuously learn about new technologies and best practices. I also engage with tech communities and forums to discuss and share knowledge with peers."
