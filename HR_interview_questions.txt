@@ -33,3 +33,7 @@ Answer:
 9. Can you describe a time when you worked as part of a team?
 Answer:
 "During my WEB3 internship at Technook, I worked as part of a cross-functional team on a blockchain project. My role involved analyzing software systems and presenting findings through PowerPoint presentations. Collaborating with team members from different backgrounds, I learned to communicate effectively, share responsibilities, and support each other to meet project deadlines. This experience reinforced the importance of teamwork and taught me how to leverage diverse perspectives to achieve common goals."
+
+10. What do you know about Mindtree and its core values?
+Answer:
+"Mindtree is known for its focus on digital transformation and IT services, helping clients achieve business agility and efficiency. The company's core values include collaboration, customer focus, and continuous learning. Mindtree emphasizes a culture of innovation, integrity, and excellence, striving to create value for its clients through cutting-edge solutions and a commitment to quality. I am particularly impressed by Mindtree's dedication to employee growth and its inclusive and supportive work environment."
