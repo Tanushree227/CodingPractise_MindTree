@@ -29,3 +29,7 @@ Answer:
 8. Why should we hire you?
 Answer:
 "You should hire me because I bring a unique combination of technical expertise, a proactive approach to problem-solving, and a strong desire to contribute to innovative projects. My background in computer science, hands-on experience with emerging technologies, and successful project executions demonstrate my capability to excel in a dynamic environment. I am eager to bring my skills and enthusiasm to Mindtree, where I can grow professionally and help drive the company's success."
+
+9. Can you describe a time when you worked as part of a team?
+Answer:
+"During my WEB3 internship at Technook, I worked as part of a cross-functional team on a blockchain project. My role involved analyzing software systems and presenting findings through PowerPoint presentations. Collaborating with team members from different backgrounds, I learned to communicate effectively, share responsibilities, and support each other to meet project deadlines. This experience reinforced the importance of teamwork and taught me how to leverage diverse perspectives to achieve common goals."
